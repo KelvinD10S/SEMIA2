@@ -1,3 +1,3 @@
 # SEMIA2
 
-#### Practica 2 - Ejercicio 2 y 3 - Clasificadores
+#### Prácticas de Seminario de Solución de Problemas de Inteligencia Artificial 2
